@@ -1,1 +1,7 @@
-
+{
+  "name": "ThomasBlock.io-Holesky",
+  "website": "https://thomasblock.io/",
+  "description": "Holesky ThomasBlock - your fast and reliable Operator. High-speed high-availability nodes hosted in germany",
+  "logo": "https://raw.githubusercontent.com/ThomasBlock/eigenlayer/main/thomasblock.png",
+  "twitter": "https://twitter.com/ThomasBlockB"
+}
